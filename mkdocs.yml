@@ -11,7 +11,11 @@ theme:
   nav:
   - Início: index.md
   - Sobre: sobre.md
-
+  - Instruções: instrucoes.md
   plugins:
   - search
   - git-revision-date-localized
+
+  extra:
+  version:
+    provider: mike
