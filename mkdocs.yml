@@ -1,11 +1,8 @@
-site_name: MInha Documentação
-site_description: Documentação do projeto
+site_name: Documentação do Meu Projeto
 
 theme:
   name: material
-  palette:
-    primary: 'indigo'
-    accent: 'indigo'
-  font:
-    text: Roboto
-    code: Roboto Mono
+
+  nav:
+  - Início: index.md
+  - Sobre: sobre.md

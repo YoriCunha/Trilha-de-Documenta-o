@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Bem-vindo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Esta é a documentação do meu projeto.
 
-## Commands
+## Passos
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+1. Instalar o projeto.
+2. Configurar o ambiente.
+3. Executar a aplicação.
 
-## Project layout
+## Exemplo de código
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+```python
+print("Olá, Mundo!")
+
+### Visualizar localmente
+
+Execute:
+
+```bash
+mkdocs serve
