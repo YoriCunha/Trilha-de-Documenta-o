@@ -1,0 +1,11 @@
+site_name: MInha Documentação
+site_description: Documentação do projeto
+
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: Roboto
+    code: Roboto Mono
